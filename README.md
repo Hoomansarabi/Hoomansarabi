@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning:<br/>
 Data Structure and Algorithms<br/>
-The Complete 2024 Web Development Bootcamp on udemy 
+The Complete 2024 Web Development Bootcamp on[Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) 
 
 - 📫 How to reach me **houmansarabi9998@gmail.com** <br/>
 
