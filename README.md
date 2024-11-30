@@ -7,6 +7,6 @@
 💬 Ask me about anything, I am happy to help <br/>
 
 🌱 I’m currently learning:<br/>
-Data Structure and Algorithms <be/>
-The Complete 2024 Web Development Bootcamp on udemy
+Data Structure and Algorithms<br/>
+The Complete 2024 Web Development Bootcamp on udemy 
 
