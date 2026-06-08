@@ -42,14 +42,6 @@ Alongside my AI research, I have a solid background in software engineering with
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoomansarabi&show_icons=true&theme=radical&hide_border=true" alt="Houman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoomansarabi&layout=compact&theme=radical&hide_border=true" alt="Houman's Top Languages" width="48%" />
-</p>
-
-<br/>
 
 ## 🌐 Connect with me
 
