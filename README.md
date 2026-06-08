@@ -15,7 +15,7 @@ LinkedIn
 <a href="mailto:houmansarabi1102@gmail.com">
 Email
 </a>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Houmansarabi&show_icons=true&theme=default)
+</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Houmansarabi&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Houmansarabi&layout=compact)
-</p>
