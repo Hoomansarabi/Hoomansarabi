@@ -172,6 +172,85 @@ The next stages of this journey will gradually move toward:
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
+
+First, clone the repository and move into the project directory:
 ```bash
 git clone https://github.com/Hoomansarabi/python-scientific-journey.git
 cd python-scientific-journey
+```
+---
+
+### 2. Create a Virtual Environment
+
+Using a virtual environment is recommended to keep the project's dependencies isolated from your system-wide Python installation.
+
+#### Windows
+Create a virtual environment:
+```bash
+python -m venv venv
+````
+
+#### Activate the environment:
+Command Prompt (CMD):
+```bash
+venv\Scripts\activate
+```
+
+#### PowerShell:
+```bash
+venv\Scripts\Activate.ps1
+```
+
+#### If PowerShell displays an execution-policy error, run the following command once:
+```bash
+> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+> 
+```
+
+#### Linux / macOS
+Create and activate the virtual environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+When the virtual environment is active, (venv) should appear at the beginning of your terminal prompt.
+
+---
+
+### 3. Install Dependencies
+Install all required Python packages using:
+```bash
+pip install -r requirements.txt
+```
+---
+
+### 4. Run the Exercises
+Run a NumPy exercise:
+```bash
+python 01_numpy_basics/01_arithmetic.py
+```
+
+Run the matrix and axes exercise:
+```bash
+python 01_numpy_basics/03_matrices_and_axes.py
+```
+
+Run the visualization exercise:
+```bash
+python 02_matplotlib_visualization/01_trigonometric_plots.py
+```
+
+Run the image-processing exercise:
+```bash
+python 03_image_processing_fundamentals/01_shapes_and_negative.py
+```
+---
+### 5. Deactivate the Virtual Environment
+When you finish working on the project, deactivate the environment with:
+
+```bash
+deactivate
+```
+
+
+
