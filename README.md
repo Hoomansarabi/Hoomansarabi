@@ -32,7 +32,7 @@ This repository is designed for students, researchers, and developers who want t
 ## 🎯 Learning Objectives
 
 - Learn how scientific problems can be represented using numerical arrays and matrices.
-- Master vectorized, slicing,NumPy` instead of relying on inefficient Python loops.
+- Master vectorized operations, slicing, and NumPy techniques instead of relying on inefficient Python loops.
 - Understand array dimensions, indexing, slicing, broadcasting, and axes.
 - Create mathematical models and scientific visualizations with `Matplotlib`.
 - Understand grayscale images as two-dimensional intensity matrices.
@@ -197,7 +197,7 @@ venv\Scripts\activate
 ```
 
 #### PowerShell:
-```bash
+```powershell
 venv\Scripts\Activate.ps1
 ```
 
