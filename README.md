@@ -203,8 +203,7 @@ venv\Scripts\Activate.ps1
 
 #### If PowerShell displays an execution-policy error, run the following command once:
 ```bash
-> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-> 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
 #### Linux / macOS
